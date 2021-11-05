@@ -1,0 +1,3 @@
+from flask import Flask(ДЛЯ main.py)
+import requests(ДЛЯ main.py)
+import requests(ДЛЯ comands.py)
